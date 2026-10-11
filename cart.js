@@ -1,0 +1,2 @@
+de totalcalculation():
+    Pass
